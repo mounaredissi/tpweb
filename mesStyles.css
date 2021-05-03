@@ -1,0 +1,123 @@
+#info { border: solid 10px black;  
+
+    margin: 50px; padding: 30px; background-color: lightgrey; 
+
+} 
+
+ 
+ 
+
+#inscript { border: solid 10px black;  
+
+    padding: 30px; background-color: yellow;  
+
+} 
+
+ 
+ 
+
+#pret { border: solid 10px black;  
+
+    margin: 50px; background-color: pink; 
+
+} 
+
+ 
+ 
+
+section {  
+
+    font-family: Arial;  
+
+    background-color: rgb(255, 229, 155); 
+
+} 
+
+ 
+ 
+
+#formulaire { 
+
+    position: relative; margin : auto;  
+
+    width: 300px; 
+
+} 
+
+ 
+ 
+
+#lbSaisie {  
+
+    display: inline-block; width: 140px;  
+
+    line-height : 30px; 
+
+} 
+
+ 
+ 
+
+.bouton {  
+
+    width : 360px; 
+
+} 
+
+ 
+ 
+
+.encadrerImg { 
+
+    float : right; 
+
+} 
+
+ 
+ 
+
+#fondPestin {  
+
+    background-image:url(''); 
+
+    color: yellow; 
+
+    font-size: 22px; 
+
+    font-style: oblique; 
+
+    text-align: left; 
+
+    font-weight: bold; 
+
+} 
+
+ 
+ 
+
+body{ 
+
+    font-size: 100%; 
+
+} 
+
+ 
+ 
+
+@media screen and (max-width: 980px), handheld and (max-width: 980px) {  
+
+    body {  
+
+    font-size:130%;  
+
+    background-color: #d3d3d3; 
+
+    } 
+
+    .affichage {  
+
+    display: none;  
+
+    } 
+
+} 
